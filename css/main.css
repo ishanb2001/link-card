@@ -1,0 +1,13 @@
+body{
+  background-color: ##f0eee8;
+
+}
+
+.card{
+  background-color: #cabdb2;
+  padding: 4em .75em .5em;
+  border-width: 3px;
+  border-radius: 3px;
+  margin: 0 0 1rem;
+  line-height: 1.5;
+}
