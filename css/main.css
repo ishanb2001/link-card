@@ -14,7 +14,7 @@ html {
 
 .link-card {
   font-family: Georgia;
-  background-color: #cabdb2;
+  background-color: #dcd4cd;
   color: #512200;
   font-size: 2.5rem;
   padding: 1rem;
@@ -36,10 +36,10 @@ html {
 .card-list {
   color: #512200;
   padding: 1rem 0;
-  display: inline-block;
-  border-top: 2px #9a816d solid;
-  border-bottom: 2px #9a816d solid;
+  display: block;
   margin: 0;
+  border-radius: 3px;
+  border-width: 3px;
 }
 
 dt {
@@ -56,7 +56,6 @@ dl {
   margin: 0;
   width: 100%;
   color: #512200;
-  font-style: italic;
 }
 
 dd {
@@ -64,6 +63,7 @@ dd {
   margin: 0;
   padding: 0;
   float: left;
+  font-style: italic;
 
 }
 p {
@@ -76,6 +76,7 @@ p {
 
 .btn-wrap {
   padding: 1rem 3.5rem 0;
+  color: #f0eee8;
 }
 
 .btn {
