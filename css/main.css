@@ -23,6 +23,7 @@ html {
   border-color: #9a816d;
   text-decoration: none;
   display: block;
+  border-style: solid;
 }
 
 .link-card h2 {
