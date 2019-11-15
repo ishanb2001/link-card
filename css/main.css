@@ -16,6 +16,12 @@ html{
   background-color: #cabdb2;
   color: #512200;
   font-size: 2.5rem;
+  padding: 1rem;
+  border-radius:3px;
+  border-width: 3px;
+  border-color: #9a816d;
+  text-decoration: none;
+  display: block;
 }
 
 .card h2{
@@ -25,6 +31,20 @@ html{
   font-family: dosis, sans-serif;
 }
 
+.card-list{
+  color: #512200;
+  padding: 1rem 0;
+  display: inline-block;
+  border-top: 2px #9a816d solid;
+  border-bottom: 2px #9a816d solid;
+  margin: 0;
+}
+
+dt {
+  padding: 0;
+  width: 50%;
+  margin 0;
+}
 
 h2{
 text-align: left;
