@@ -1,5 +1,5 @@
 body{
-  background-color: ##f0eee8;
+  background-color: #f0eee8;
 }
 
 *,*::before, *::after{
@@ -8,11 +8,12 @@ body{
 }
 html{
   box-sizing:  border-box;
-  line height: 1.5;
+  line-height: 1.5;
   font-family: Georgia;
 }
+
 .card{
-  font-family:;
+  font-family: Georgia;
   background-color: #cabdb2;
   color: #512200;
   font-size: 2.5rem;
@@ -43,16 +44,16 @@ html{
 dt {
   padding: 0;
   width: 50%;
-  margin 0;
+  margin:0;
   float: left;
 }
 
 dl{
   font-family: Georgia, sans-serif;
-  font-size .875rem;
+  font-size: .875rem;
   padding: 0;
   margin: 0;
-  width: 100%s
+  width: 100%;
   color: #785439;
 }
 
@@ -76,10 +77,10 @@ p{
 }
 
 .btn{
-  font-family: dosis, sans-serif;
+  font-family: Dosis, sans-serif;
   background-color: #785439;
   font-weight: bolder;
-  font-size: 1.125;
+  font-size: 1.125rem;
   padding: .4em .75em .5em;
   display: flex;
   align-content: center;
