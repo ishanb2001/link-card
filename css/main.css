@@ -12,7 +12,7 @@ html{
   font-family: Georgia;
 }
 
-.card{
+.link-card{
   font-family: Georgia;
   background-color: #cabdb2;
   color: #512200;
@@ -25,7 +25,7 @@ html{
   display: block;
 }
 
-.card h2{
+.link-card h2{
   color: #512200;
   margin: 0;
   font-size: 1.5rem;
@@ -89,4 +89,8 @@ p{
   justify-content: center;
   border-radius: 8px;
   border-style: none;
+}
+
+.link-card:hover{
+  background-color: #cabdb2
 }
